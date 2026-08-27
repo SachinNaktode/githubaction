@@ -3,11 +3,11 @@ name: Terraform DevSecOps Security Scan1
 on:
   push:
     branches:
-      - features
+      - feature/automation1
 
 
 
-      
+
 
       
 
